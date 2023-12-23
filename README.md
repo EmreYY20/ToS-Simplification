@@ -5,7 +5,7 @@ The project aims to address the widespread issue of complex and lengthy Terms-of
 
 <br>
 <div align = center>
-<a href="https://ee21-tos-summarization.hf.space">
+<a href="https://huggingface.co/spaces/EE21/ToS-Summarization">
   <img src="https://img.shields.io/badge/View-Streamlit%20App-blue?style=for-the-badge&logo=streamlit" alt="Streamlit App">
 </a>
 <br>
