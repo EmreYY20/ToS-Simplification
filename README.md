@@ -19,6 +19,9 @@ Who did what:
 - Evaluation of the selected techniques (All)
 
 
+The streamlit web app is hosted by Hugging Face Spaces, it will automatically run the web app, so you dont have to execute the code on your machine.
+
+
 <br>
 <div align = center>
 <a href="https://huggingface.co/spaces/EE21/ToS-Summarization">
