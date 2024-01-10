@@ -17,6 +17,7 @@ Who did what:
 - Creating the web app (Emre, Tobias)
 - Developing of a evaluation technique (Emre)
 - Evaluation of the selected techniques (All)
+- Writing the report (Emre)
 
 
 The streamlit web app is hosted by Hugging Face Spaces, it will automatically run the web app, so you dont have to execute the code on your machine.
